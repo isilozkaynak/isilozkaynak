@@ -15,7 +15,7 @@ Skills: HTML / CSS / JS
 * [<img src='https://cdn.jsdelivr.net/npm/simple-
 
 ##Softwares:
-* icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>](https://code.visualstudio.com)  
+* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>](https://code.visualstudio.com)  
 * [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg' alt='figma' height='40'>](https://www.figma.com)  
 * [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobexd.svg' alt='adobexd' height='40'>](https://www.adobe.com/tr/products/xd.html)  
 
